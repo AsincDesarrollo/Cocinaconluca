@@ -1,0 +1,10 @@
+<?php 
+/**
+ * 
+ */
+define('DB_TYPE','mysql');
+define('DB_HOST','tuservidor');
+define('DB_NAME','basededatos');
+define('DB_USER','usuario');
+define('DB_PASS','password');
+?>
